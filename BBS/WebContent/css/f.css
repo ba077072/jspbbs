@@ -1,0 +1,14 @@
+#footer .footer1 li {list-style:none;}
+
+#footer .footer1 {width:100%;
+		margin:20px 0 0 0; padding:20px;
+		text-align:center; background-color:#000000; color:#ffffff;
+		border-top:1px solid color:#cccccc; box-sizing:border-box;
+		transition-duration:3s;
+		}
+	
+#footer .footer1:hover {width:50%; background-color:#ffffff; color:#000000; margin:20px auto 0 auto;}
+		
+#footer .footer1 .fname { height:20px; line-height:20px; font-weight:bold; }
+
+
